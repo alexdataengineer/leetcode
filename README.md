@@ -27,3 +27,11 @@ Feel free to explore and reach out if you find any improvements or want to colla
 ---
 
 > 🧑‍💻 Solving one problem at a time — consistency beats intensity.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/alexdataengineer/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+<!---LeetCode Topics End-->
