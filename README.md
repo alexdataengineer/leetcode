@@ -16,7 +16,7 @@ Each solution includes a brief explanation.
 
 ## 📌 About
 
-I'm using this repository to track my progress and reinforce concepts in SQL, data analysis, and systems design — especially for interview prep.  
+I'm using this repository to track my progress and reinforce concepts in SQL and Python, data analysis, and systems design — especially for interview prep.  
 Feel free to explore and reach out if you find any improvements or want to collaborate!
 
 ## 🚀 Contact
