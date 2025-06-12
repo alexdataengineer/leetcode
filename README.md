@@ -22,7 +22,7 @@ Feel free to explore and reach out if you find any improvements or want to colla
 ## 🚀 Contact
 
 - GitHub: [@alexdataengineer](https://github.com/alexdataengineer)
-- LinkedIn: [Alexsander Silveira](https://www.linkedin.com/in/alexsander-silveira/)
+- LinkedIn: [Alexsander Silveira]([https://www.linkedin.com/in/alexsander-silveira/](https://www.linkedin.com/in/alexsander-silveira-62b258200/))
 
 ---
 
