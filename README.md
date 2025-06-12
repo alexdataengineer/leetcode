@@ -1,7 +1,7 @@
 # LeetCode Solutions
 
 This repository contains my solutions to LeetCode problems, organized by topic.  
-Each solution includes a brief explanation, the SQL query used, and a link to the original problem.
+Each solution includes a brief explanation.
 
 ## 🧠 Topics
 
