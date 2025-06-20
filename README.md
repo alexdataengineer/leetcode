@@ -23,4 +23,5 @@ Feel free to explore and reach out if you find any improvements or want to colla
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/alexdataengineer/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0610-triangle-judgement](https://github.com/alexdataengineer/leetcode/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
