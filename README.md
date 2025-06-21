@@ -1,8 +1,8 @@
 🧠 LeetCode Solutions
-Este repositório contém minhas soluções para problemas do LeetCode, organizadas por tópico. Cada solução possui uma breve explicação para reforçar conceitos importantes, principalmente voltados para entrevistas técnicas.
+This repository contains my solutions to LeetCode problems, organized by topic. Each solution includes a brief explanation to reinforce key concepts — especially for technical interview prep.
 
-📌 Sobre
-Utilizo este repositório para acompanhar meu progresso e revisar conteúdos essenciais em:
+📌 About
+I'm using this repository to track my progress and strengthen my skills in:
 
 SQL
 
@@ -12,27 +12,25 @@ Data Analysis
 
 System Design
 
-Consistência é a chave. Um problema resolvido por vez.
+Solving one problem at a time — consistency beats intensity.
 
-📂 Tópicos Resolvidos
+📂 Problem Topics
 🗃️ Database (SQL)
-ID	Título	Tipo	Nível
+ID	Title	Topic(s)	Difficulty
 0176	Second Highest Salary	Aggregation, Subquery	Medium
-0570	Managers with at Least 5 Direct Reports	Group By, Self Join	Medium
-0586	Customer Placing the Largest Number of Orders	Aggregation, Group By	Easy
+0570	Managers with at Least 5 Direct Reports	Self Join, Group By	Medium
+0586	Customer Placing the Largest Number of Orders	Group By, Aggregation	Easy
 0610	Triangle Judgement	Conditional Logic	Easy
 0626	Exchange Seats	Modulo, Row Manipulation	Medium
 1135	Customers Who Bought All Products	Relational Division, Group By	Medium
 
-✨ Mais soluções serão adicionadas em breve!
+✨ More solutions coming soon!
 
-🔗 Contato
+🔗 Contact
 GitHub: @alexdataengineer
-Medium: https://medium.com/@alexsander.silveira1
+Medium: @alexsander.silveira1
 LinkedIn: Alexsander Silveira
 
-🚀 Frase Motivacional
+🚀 Motivation
 🧑‍💻 Solving one problem at a time — consistency beats intensity.
-
-Se quiser, posso gerar esse README.md com os links para os arquivos ou pastas dos exercícios diretamente, ou criar um índice automático via script Python para manter isso atualizado. Deseja isso?
 
