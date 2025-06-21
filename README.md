@@ -1,29 +1,38 @@
-# LeetCode Solutions
+🧠 LeetCode Solutions
+Este repositório contém minhas soluções para problemas do LeetCode, organizadas por tópico. Cada solução possui uma breve explicação para reforçar conceitos importantes, principalmente voltados para entrevistas técnicas.
 
-This repository contains my solutions to LeetCode problems, organized by topic.  
-Each solution includes a brief explanation.
+📌 Sobre
+Utilizo este repositório para acompanhar meu progresso e revisar conteúdos essenciais em:
 
-## 📌 About
+SQL
 
-I'm using this repository to track my progress and reinforce concepts in SQL and Python, data analysis, and systems design — especially for interview prep.  
-Feel free to explore and reach out if you find any improvements or want to collaborate!
+Python
 
-## 🚀 Contact
+Data Analysis
 
-- GitHub: [@alexdataengineer](https://github.com/alexdataengineer)
-- LinkedIn: [Alexsander Silveira]([https://www.linkedin.com/in/alexsander-silveira/](https://www.linkedin.com/in/alexsander-silveira-62b258200/)
+System Design
 
----
+Consistência é a chave. Um problema resolvido por vez.
 
-> 🧑‍💻 Solving one problem at a time — consistency beats intensity.
+📂 Tópicos Resolvidos
+🗃️ Database (SQL)
+ID	Título	Tipo	Nível
+0176	Second Highest Salary	Aggregation, Subquery	Medium
+0570	Managers with at Least 5 Direct Reports	Group By, Self Join	Medium
+0586	Customer Placing the Largest Number of Orders	Aggregation, Group By	Easy
+0610	Triangle Judgement	Conditional Logic	Easy
+0626	Exchange Seats	Modulo, Row Manipulation	Medium
+1135	Customers Who Bought All Products	Relational Division, Group By	Medium
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0570-managers-with-at-least-5-direct-reports](https://github.com/alexdataengineer/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
-| [0610-triangle-judgement](https://github.com/alexdataengineer/leetcode/tree/master/0610-triangle-judgement) |
-| [0626-exchange-seats](https://github.com/alexdataengineer/leetcode/tree/master/0626-exchange-seats) |
-| [1135-customers-who-bought-all-products](https://github.com/alexdataengineer/leetcode/tree/master/1135-customers-who-bought-all-products) |
-<!---LeetCode Topics End-->
+✨ Mais soluções serão adicionadas em breve!
+
+🔗 Contato
+GitHub: @alexdataengineer
+Medium: https://medium.com/@alexsander.silveira1
+LinkedIn: Alexsander Silveira
+
+🚀 Frase Motivacional
+🧑‍💻 Solving one problem at a time — consistency beats intensity.
+
+Se quiser, posso gerar esse README.md com os links para os arquivos ou pastas dos exercícios diretamente, ou criar um índice automático via script Python para manter isso atualizado. Deseja isso?
+
