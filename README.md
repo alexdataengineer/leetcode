@@ -44,3 +44,11 @@ Solving one problem at a time — **consistency beats intensity**.
 🧑‍💻 *Solving one problem at a time — consistency beats intensity.*
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/alexdataengineer/leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+<!---LeetCode Topics End-->
